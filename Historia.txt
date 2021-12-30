@@ -1,5 +1,9 @@
 Esta es la hisotiria de Leo 
 
-Siempre Crack, aunque menos que manana, teno 20 años
+Siempre Crack, aunque menos que manana, teno 20 anos
 
 Gracias
+
+Anadimos mas cambios para el tercer commit 
+
+cambios, pero vamos por la rama llamada ram1
