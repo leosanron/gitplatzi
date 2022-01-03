@@ -15,3 +15,6 @@ Ahora estoy en master, hay unos cambios con commit en rama 1
 =======
 Estoy haciendo cambios en la rama 1 para ver si se pierden, sin guardar, voy a pasara a master y modifico master a ver 
 >>>>>>> rama1
+
+
+Hago cambio en master,  y en rama 2 hay otras cosas
