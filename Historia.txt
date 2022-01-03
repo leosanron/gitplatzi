@@ -7,3 +7,5 @@ Gracias
 Anadimos mas cambios para el tercer commit 
 
 cambios, pero vamos por la rama llamada ram1
+
+Estoy haciendo cambios en la rama 1 para ver si se pierden, sin guardar, voy a pasara a master y modifico master a ver 
