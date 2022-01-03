@@ -17,3 +17,4 @@ Ahora estoy en rama 2, pero no he solucionado conflicto de merge
 
 
 mas lineas en amster 
+otras lineas mas en master 
