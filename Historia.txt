@@ -20,3 +20,5 @@ mas lineas en amster
 otras lineas mas en master 
 
 Puedo editar desde GitHub
+
+Estoy editando con clave SSH, cifrado, soy re Hacker 
